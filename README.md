@@ -4,7 +4,7 @@
 
 The code that produces the paper's relevant figures, graphs, and data can be found in $\texttt{Final-Model.ipynb}$ It is a Python file that has various economy simulations under different conditions.  
 
-There is also a $\texttt{Final-Model-Copy.ipynb}$ which is essentially the same code. However, for the functions that contain sliders, there is now a specific value. This is due to the slider functionality not working in GitHub. So, it is only there to show the graphs in GitHub which are not shown in $\texttt{Final-Model.ipynb}$.
+There is also a $\texttt{Final-Model-Copy1.ipynb}$ which is essentially the same code. However, for the functions that contain sliders, there is now a specific value. This is due to the slider functionality not working in GitHub. So, it is only there to show the graphs in GitHub which are not shown in $\texttt{Final-Model.ipynb}$.
 
 ## General
 To run the Jupyter Notebook ($\texttt{ipynb}$) files, you can use the Jupyter Notebook application from a distribution like Anaconda (https://www.anaconda.com/) which is what I have done. Then you will need to clone the  repository and execute the entire notebook. Then the graphs and figures will be displayed.
