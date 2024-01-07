@@ -6,8 +6,7 @@ The code that produces the paper's relevant figures, graphs, and data can be fou
 It is a Python file that has various economy simulations under different conditions.  
 
 ## How to run
-1. Clone the repository.
-To run the Jupyter Notebook ($\texttt{ipynb}$) files, you can use the Jupyter Notebook application from a distribution like Anaconda (https://www.anaconda.com/) which is what I have done. Then you will need to execute the entire notebook and the graphs and figures will be displayed.
+To run the Jupyter Notebook ($\texttt{ipynb}$) files, you can use the Jupyter Notebook application from a distribution like Anaconda (https://www.anaconda.com/) which is what I have done. Then you will need to clone the  repository and execute the entire notebook. then the graphs and figures will be displayed.
 
 To make sure you have all the correct packages install the following;
 1. Open a new cell in your Jupyter notebook.
@@ -22,3 +21,16 @@ To make sure you have all the correct packages install the following;
 Note that in some Jupyter environments, these packages might already be installed. In that case, the !pip install command will simply ensure that they are up to date.
 
 
+
+
+
+
+
+
+
+## Author
+- [Tore Ziegler Hougaard Andersen](mailto:toreziegler@gmail.com), KU-ID: [dch271](mailto:dch271@ku.dk)
+
+## Supervisors
+### Main supervisor (From Faculty of Economics)
+- [Marc Klemp](mailto:francois@di.ku.dk), ([GitHub](https://loutchoa.github.io/), [KU-page](https://web.econ.ku.dk/klemp/)
