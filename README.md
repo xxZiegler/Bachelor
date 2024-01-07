@@ -1,5 +1,5 @@
 # Bachelor Project:
-## Exploring The effects of AI on an economy simulated with a solow-like a model with two types of labor forces:
+## Exploring The effects of AI on an economy simulated with a solow-like model that has two types of labor forces $L_1$ $L_2$:
 
 The code that produces the paper's relevant figures, graphs, and data can be found in $\texttt{main.ipynb}$.
 
