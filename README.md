@@ -1,7 +1,7 @@
 # Bachelor Project:
 ## Exploring The effects of AI on an economy simulated with a solow-like model that has two types of labor forces $L_1$ and $L_2$:
 
-The code that produces the paper's relevant figures, graphs, and data can be found in $\texttt{Final\textunderscore Model.ipynb}$
+The code that produces the paper's relevant figures, graphs, and data can be found in $\texttt{Final'_'Model.ipynb}$
 
 It is a Python file that has various economy simulations under different conditions.  
 
