@@ -1,9 +1,10 @@
-# Bachelor Project:
+# Bachelor Project 2024:
+## Bachelor’s Degree in Computer Science and Economics
 ## Exploring The effects of AI on an economy simulated with a solow-like model that has two types of labor forces $L_1$ and $L_2$:
 
 The code that produces the paper's relevant figures, graphs, and data can be found in $\texttt{Final-Model.ipynb}$ It is a Python file that has various economy simulations under different conditions.  
 
-## Where to run the code
+## General
 To run the Jupyter Notebook ($\texttt{ipynb}$) files, you can use the Jupyter Notebook application from a distribution like Anaconda (https://www.anaconda.com/) which is what I have done. Then you will need to clone the  repository and execute the entire notebook. Then the graphs and figures will be displayed.
 
 ## How to Run
