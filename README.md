@@ -29,8 +29,8 @@ Note that in some Jupyter environments, these packages might already be installe
 
 
 ## Author
-- [Tore Ziegler Hougaard Andersen](mailto:toreziegler@gmail.com), KU-ID: [dch271](mailto:dch271@ku.dk)
+- [Tore Ziegler Hougaard Andersen](mailto:toreziegler@gmail.com), KU-ID:[dch271](mailto:dch271@ku.dk)
 
 ## Supervisors
 ### Main supervisor (From Faculty of Economics)
-- [Marc Klemp](mailto:francois@di.ku.dk), ([GitHub](https://loutchoa.github.io/), [KU-page](https://web.econ.ku.dk/klemp/)
+- [Marc Klemp](mailto:marc.klemp@econ.ku.dk), [KU-page](https://web.econ.ku.dk/klemp/)
